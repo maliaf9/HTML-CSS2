@@ -1,0 +1,59 @@
+ a {
+    text-decoration: none;
+    color: white;
+  
+    
+}
+
+nav {
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(8, 8, 8, 0.918);
+    display: flex;
+    justify-content: 
+}
+
+nav > div img {
+    width: .5in;
+    height: .5in;
+    margin: .1in;
+    float: left;
+    -webkit-filter:invert(100%);
+          filter:progid:DXImageTransform.Microsoft.BasicImage(invert='1');
+    
+}
+
+nav div {
+    width: 100%;
+    height: 10vh;
+}
+
+
+nav ul {
+    font-weight: 600;
+    
+}
+
+
+
+
+nav li {
+    margin: 0 10px;
+    float: right;
+    
+}
+
+
+body {
+    background-color: blueviolet
+}
+body img {
+    width: 20%;
+    height: 20%;
+}
+
+
+button {
+    font-weight: 800;
+    
+}
